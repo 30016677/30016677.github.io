@@ -1,12 +1,16 @@
-# Local Sports Team
+# waibop
 ---
-![sport](https://www.stylist.co.uk/images/app/uploads/2018/09/18145916/benefits-of-team-sport-for-women-crop-1537279186-933x933.jpg?w=256&h=256&fit=max&auto=format%2Ccompress "image")
-This is a *sports* team. They play *sports*, with *sports* balls on *sports* fields with scores and stuff. This is a *sports* team. They play *sports*, with *sports* balls on *sports* fields with scores and stuff. This is a *sports* team. They play *sports*, with *sports* balls on *sports* fields with scores and stuff. 
-***
-## sports:
-+ football
-+ handball
-+ basketball
-+ netball
+![sport](https://sportsgroundproduction.blob.core.windows.net/cms/6625/logo.jpg?ts=636925490769270000 "waibop")
+## About
+Waikato Bay of Plenty Football (WaiBOP) is the trading name of the Number 3 District Federation of NZ Football, one of seven district federations affiliated to the national body.
 
-[this is a link](https://www.google.com)
+Established in 2000 we lead, inspire and deliver football in Eastern Bay of Plenty, Rotorua, Taupo, Thames / Coromandel, Waikato and Western Bay of Plenty.
+***
+## Goals:
++ Align the Game
++ Organise the Game
++ Develop the Game
++ Succeed at the Game
++ Expand the Game
+
+[WaiBOP home](http://www.waibopfootball.co.nz/)
