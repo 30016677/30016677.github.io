@@ -1,6 +1,7 @@
 # waibop
 ---
 ![sport](https://sportsgroundproduction.blob.core.windows.net/cms/6625/logo.jpg?ts=636925490769270000 "waibop")
+---
 ## About
 Waikato Bay of Plenty Football (WaiBOP) is the trading name of the Number 3 District Federation of NZ Football, one of seven district federations affiliated to the national body.
 
